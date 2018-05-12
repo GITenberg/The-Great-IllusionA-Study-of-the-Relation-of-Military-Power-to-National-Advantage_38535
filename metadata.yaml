@@ -16,6 +16,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Norman_Angell
 description: 'Part 1: The great illusion 1933 -- Part 2: The great illusion 1908-1914
   -- Part 3: The verdict of the events.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38535#The-Great-IllusionA-Study-of-the-Relation-of-Military-Power-to-National-Advantage
 gutenberg_issued: '2012-01-09'
 gutenberg_type: Text
 identifiers:
